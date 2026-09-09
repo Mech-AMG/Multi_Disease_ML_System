@@ -1,0 +1,7 @@
+Disease,Best Model,Features,Threshold,Accuracy,Balanced Accuracy,Precision,Recall,F1 Score,ROC-AUC,PR-AUC
+Diabetes,HistGradientBoostingClassifier,N/A,0.546957,0.751010,0.751861,0.328419,0.753041,0.457369,0.831258,0.431744
+Heart Disease,Logistic Regression,N/A,0.313102,0.847826,0.838833,0.824561,0.921569,0.870370,0.908537,0.918779
+Chronic Kidney Disease,Logistic Regression,24,0.091000,0.975000,0.966667,0.961538,1.000000,0.980392,1.000000,1.000000
+Liver Disease,Logistic Regression,10,0.295000,0.736842,0.626263,0.774194,0.888889,0.827586,0.804714,0.924483
+Respiratory Disease,Support Vector Machine,4,0.495000,0.600000,0.592881,0.581395,0.806452,0.675676,0.571746,
+Breast Cancer,Logistic Regression,30,0.330000,0.973684,0.969246,0.975610,0.952381,0.963855,0.992725,
