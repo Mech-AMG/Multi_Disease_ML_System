@@ -21,6 +21,7 @@ Thumbs.db
 
 # Downloaded compressed archives
 *.zip
+*.pdf
 
 # Streamlit private settings
 .streamlit/secrets.toml
